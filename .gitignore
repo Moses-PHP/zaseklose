@@ -1,3 +1,4 @@
-ZASEKLOse WEB.zip
+*.zip
 _tmp_extract/
+_tmp_new/
 .DS_Store
